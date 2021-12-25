@@ -1,3 +1,3 @@
 # Gitdemo
-this is for learning
+This is for learning.
 ok.
