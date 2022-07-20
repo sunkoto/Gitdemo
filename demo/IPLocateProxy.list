@@ -1,0 +1,28 @@
+# 哔哩哔哩港澳台
+DOMAIN-SUFFIX,biliapi.net,PROXY
+DOMAIN-SUFFIX,biliapi.com,PROXY
+DOMAIN-SUFFIX,bilibili.com,PROXY
+DOMAIN-SUFFIX,bilibili.tv,PROXY
+
+# 哔哩哔哩IP定位接口
+host, api.bilibili.com, PROXY
+
+# 知乎IP定位接口
+ip-cidr, 103.41.167.0/24, PROXY
+
+# 微博IP定位接口
+host-suffix, api.weibo.cn, PROXY
+
+# 贴吧IP定位接口
+host,www.baidu.com,PROXY
+
+# 头条IP定位接口
+host-suffix,toutiaoapi.com,PROXY
+
+# 抖音IP定位接口
+;host-keyword,core-c-lq,PROXY
+;host-keyword,core-lq,PROXY
+;host-keyword,normal-c-lq,PROXY
+;host-keyword,normal-lq,PROXY
+;host-keyword,search-quic-lq,PROXY
+;host-keyword,search-lq,PROXY
