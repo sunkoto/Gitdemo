@@ -1,4 +1,5 @@
 # Steam
+DOMAIN-SUFFIX,cm.steampowered.com
 DOMAIN,api.steampowered.com
 DOMAIN-SUFFIX,steam-chat.com
 DOMAIN-SUFFIX,steamcontent.com
