@@ -6,6 +6,9 @@ DOMAIN-SUFFIX,bilibili.tv,PROXY
 
 # 哔哩哔哩IP定位接口
 host, api.bilibili.com, PROXY
+DOMAIN,log1.cmpassport.com, PROXY
+DOMAIN,passport.bigfun.cn, PROXY
+DOMAIN,passport.bigfunapp.cn, PROXY
 
 # 知乎IP定位接口
 ip-cidr, 103.41.167.0/24, PROXY
