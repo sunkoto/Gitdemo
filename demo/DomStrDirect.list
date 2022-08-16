@@ -1,5 +1,6 @@
-DOMAIN-SUFFIX,bilivideo.com,DIRECT
-DOMAIN,upos-hz-mirrorakam.akamaized.net,DIRECT
-DOMAIN-KEYWORD,cn-hk-eq-bcache-,DIRECT
-DOMAIN-SUFFIX,hdslb.com,DIRECT
-DOMAIN-SUFFIX,biliimg.com,DIRECT
+payload:
+  - DOMAIN-SUFFIX,bilivideo.com
+  - DOMAIN,upos-hz-mirrorakam.akamaized.net
+  - DOMAIN-KEYWORD,cn-hk-eq-bcache-
+  - DOMAIN-SUFFIX,hdslb.com
+  - DOMAIN-SUFFIX,biliimg.com
