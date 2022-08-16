@@ -6,7 +6,7 @@ payload:
   - DOMAIN-SUFFIX,bilibili.tv
 
   # 哔哩哔哩IP定位接口
-  - host, api.bilibili.com
+  - DOMAIN, api.bilibili.com
   - DOMAIN,log1.cmpassport.com
   - DOMAIN,passport.bigfun.cn
   - DOMAIN,passport.bigfunapp.cn
@@ -15,18 +15,18 @@ payload:
   - ip-cidr, 103.41.167.0/24
 
   # 微博IP定位接口
-  - host-suffix, api.weibo.cn
+  - DOMAIN-SUFFIX, api.weibo.cn
 
   # 贴吧IP定位接口
-  - host,www.baidu.com
+  - DOMAIN,www.baidu.com
 
   # 头条IP定位接口
-  - host-suffix,toutiaoapi.com
+  - DOMAIN-SUFFIX,toutiaoapi.com
 
   # 抖音IP定位接口
-  # host-keyword,core-c-lq
-  # - host-keyword,core-lq
-  # - host-keyword,normal-c-lq
-  # - host-keyword,normal-lq
-  # - host-keyword,search-quic-lq
-  # - host-keyword,search-lq
+  # DOMAIN-keyword,core-c-lq
+  # - DOMAIN-keyword,core-lq
+  # - DOMAIN-keyword,normal-c-lq
+  # - DOMAIN-keyword,normal-lq
+  # - DOMAIN-keyword,search-quic-lq
+  # - DOMAIN-keyword,search-lq
