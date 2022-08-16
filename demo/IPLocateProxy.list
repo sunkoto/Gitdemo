@@ -1,32 +1,32 @@
 payload:
   # 哔哩哔哩港澳台
-  - DOMAIN-SUFFIX,biliapi.net,PROXY
-  - DOMAIN-SUFFIX,biliapi.com,PROXY
-  - DOMAIN-SUFFIX,bilibili.com,PROXY
-  - DOMAIN-SUFFIX,bilibili.tv,PROXY
+  - DOMAIN-SUFFIX,biliapi.net
+  - DOMAIN-SUFFIX,biliapi.com
+  - DOMAIN-SUFFIX,bilibili.com
+  - DOMAIN-SUFFIX,bilibili.tv
 
   # 哔哩哔哩IP定位接口
-  - host, api.bilibili.com, PROXY
-  - DOMAIN,log1.cmpassport.com, PROXY
-  - DOMAIN,passport.bigfun.cn, PROXY
-  - DOMAIN,passport.bigfunapp.cn, PROXY
+  - host, api.bilibili.com
+  - DOMAIN,log1.cmpassport.com
+  - DOMAIN,passport.bigfun.cn
+  - DOMAIN,passport.bigfunapp.cn
 
   # 知乎IP定位接口
-  - ip-cidr, 103.41.167.0/24, PROXY
+  - ip-cidr, 103.41.167.0/24
 
   # 微博IP定位接口
-  - host-suffix, api.weibo.cn, PROXY
+  - host-suffix, api.weibo.cn
 
   # 贴吧IP定位接口
-  - host,www.baidu.com,PROXY
+  - host,www.baidu.com
 
   # 头条IP定位接口
-  - host-suffix,toutiaoapi.com,PROXY
+  - host-suffix,toutiaoapi.com
 
   # 抖音IP定位接口
-  # host-keyword,core-c-lq,PROXY
-  # - host-keyword,core-lq,PROXY
-  # - host-keyword,normal-c-lq,PROXY
-  # - host-keyword,normal-lq,PROXY
-  # - host-keyword,search-quic-lq,PROXY
-  # - host-keyword,search-lq,PROXY
+  # host-keyword,core-c-lq
+  # - host-keyword,core-lq
+  # - host-keyword,normal-c-lq
+  # - host-keyword,normal-lq
+  # - host-keyword,search-quic-lq
+  # - host-keyword,search-lq
