@@ -12,7 +12,7 @@ payload:
   - DOMAIN,passport.bigfunapp.cn
 
   # 知乎IP定位接口
-  - ip-cidr, 103.41.167.0/24
+  - IP-CIDR, 103.41.167.0/24
 
   # 微博IP定位接口
   - DOMAIN-SUFFIX, api.weibo.cn
