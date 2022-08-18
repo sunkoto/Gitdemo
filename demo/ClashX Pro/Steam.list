@@ -33,3 +33,5 @@ payload:
   - DOMAIN-KEYWORD,steambroadcast
   - DOMAIN-KEYWORD,steamstore
   - DOMAIN-KEYWORD,steamuserimages
+  - DST-PORT,27017
+  - DST-PORT,27018
