@@ -3,6 +3,7 @@ DOMAIN-SUFFIX,biliapi.net
 DOMAIN-SUFFIX,biliapi.com
 DOMAIN-SUFFIX,bilibili.com
 DOMAIN-SUFFIX,bilibili.tv
+DOMAIN-SUFFIX,biliintl.com
 
 # 哔哩哔哩IP定位接口
 DOMAIN, api.bilibili.com
