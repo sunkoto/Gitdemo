@@ -1,6 +1,11 @@
+# General
 DOMAIN-SUFFIX,koto.win
 DOMAIN-SUFFIX,pan666.cn
 DOMAIN-SUFFIX,paypal.com
 DOMAIN-SUFFIX,paypalobjects.com
 DOMAIN-SUFFIX,speedtest.cn
 DOMAIN-SUFFIX,speedtest.net
+
+# Bili图片
+DOMAIN-SUFFIX,hdslb.com
+DOMAIN-SUFFIX,biliimg.com
