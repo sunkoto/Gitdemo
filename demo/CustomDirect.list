@@ -1,10 +1,13 @@
 # General
 DOMAIN-SUFFIX,koto.win
 DOMAIN-SUFFIX,pan666.cn
-DOMAIN-SUFFIX,steampy.com
 DOMAIN-SUFFIX,speedtest.cn
 DOMAIN-SUFFIX,speedtest.net
 DOMAIN-SUFFIX,appstorrent.ru
+
+# steampy
+DOMAIN-SUFFIX,steampy.com
+DOMAIN,steampy.oss-cn-shanghai.aliyuncs.com
 
 # paypal
 DOMAIN-SUFFIX,paypal.com
