@@ -1,0 +1,8 @@
+#!name=Toggle Akamaized To bilivideo
+#!desc=哔哩哔哩Upos服务器替换为腾讯Cos对象存储，@ddgksf2013,@alyce233
+
+[URL Rewrite]
+^https?:\/\/upos-hz-mirrorakam\.akamaized\.net\/(.*) https://upos-sz-mirrorcos.bilivideo.com/$1 302
+
+[MITM]
+hostname = %APPEND% upos-hz-mirrorakam.akamaized.net
