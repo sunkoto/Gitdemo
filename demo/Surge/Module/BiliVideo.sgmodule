@@ -1,4 +1,4 @@
-#!name=Toggle Akamaized To bilivideo
+#!name=Toggle Akamaized To Bilivideo
 #!desc=哔哩哔哩Upos服务器替换为腾讯Cos对象存储，@ddgksf2013,@alyce233
 
 [URL Rewrite]

@@ -1,5 +1,5 @@
 #!name=BiliCC Traditional to Simplified
-#!desc=BiliCC Traditional to Simplified
+#!desc=BiliCC Traditional to Simplified. Not recommend Always_On. Turn it on when needed.
 
 [Script]
 BiliCC = type=http-response,pattern=^https?:\/\/i.\.hdslb\.com\/bfs\/subtitle\/.+\.json$,requires-body=1,max-size=0,script-path=https://raw.githubusercontent.com/Sunkentoko/Gitdemo/master/demo/Surge/Module/BiliCC.js
