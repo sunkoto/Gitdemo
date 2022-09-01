@@ -31,12 +31,6 @@ payload:
   - DOMAIN,gsp0.baidu.com,IP
   - DOMAIN,hm.baidu.com,IP 
   - DOMAIN,www.baidu.com,IP
-   
-  # ======= 微信 ======= #
-  - DOMAIN,szshort.weixin.qq.com,IP
-  - DOMAIN,szextshort.weixin.qq.com,IP
-  - DOMAIN,szminorshort.weixin.qq.com,IP
-  - DOMAIN,mp.weixin.qq.com,IP 
   
   # ======= 知乎 ======= #
   #DOMAIN,zhihu-web-analytics.zhihu.com,IP
@@ -44,6 +38,3 @@ payload:
   #DOMAIN,api.zhihu.com,IP
   - DOMAIN-SUFFIX,zhihu.com,IP
   - IP-CIDR,103.41.167.0/24,IP
-  
-  # ======= 国家反诈中心 ======= #
-  - DOMAIN-SUFFIX,gjfzpt.cn,REJECT 

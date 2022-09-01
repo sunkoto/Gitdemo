@@ -2,11 +2,17 @@ payload:
   # General
   - DOMAIN-SUFFIX,koto.win
   - DOMAIN-SUFFIX,pan666.cn
-  - DOMAIN-SUFFIX,paypal.com
-  - DOMAIN-SUFFIX,paypalobjects.com
   - DOMAIN-SUFFIX,speedtest.cn
   - DOMAIN-SUFFIX,speedtest.net
-  - DOMAIN-SUFFIX,appstorrent.ru
-  - # Bili图片
+  - DOMAIN-SUFFIX,appstorrent.ru 
+  # steampy
+  - DOMAIN-SUFFIX,steampy.com
+  - DOMAIN,steampy.oss-cn-shanghai.aliyuncs.com
+  # paypal
+  - DOMAIN-SUFFIX,paypal.com
+  - DOMAIN-SUFFIX,paypal.me
+  - DOMAIN-SUFFIX,paypal-mktg.com
+  - DOMAIN-SUFFIX,paypalobjects.com
+  # Bili图片
   - DOMAIN-SUFFIX,hdslb.com
   - DOMAIN-SUFFIX,biliimg.com
