@@ -3,7 +3,7 @@
 
 [URL Rewrite]
 ;^https?:\/\/upos-hz-mirrorakam\.akamaized\.net\/(.*) https://upos-sz-mirrorcos.bilivideo.com/$1 302
-^https?:\/\/cn-hk-eq-bcache-\d{2}\.bilivideo\.com\/(.*) - reject
+^cn-hk-eq-bcache-\d{2}\.bilivideo\.com\/(.*) https://upos-sz-mirrorcos.bilivideo.com/$1 302
 
 [MITM]
 hostname = %APPEND% upos-hz-mirrorakam.akamaized.net, bilivideo.com
