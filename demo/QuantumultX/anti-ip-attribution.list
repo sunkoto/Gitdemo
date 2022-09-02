@@ -1,7 +1,7 @@
 # 原项目地址：https://github.com/ddgksf2013/Cuttlefish
 # 自定义删除部分内容
 
-# ======= 哔哩哔哩 =======
+# 哔哩哔哩
 DOMAIN-SUFFIX,biliapi.net
 DOMAIN-SUFFIX,biliapi.com
 DOMAIN,api.bilibili.com
@@ -18,13 +18,13 @@ DOMAIN-SUFFIX,im9.com
 DOMAIN-SUFFIX,acg.tv
 DOMAIN-SUFFIX,biligame.com
 
-# ======= 微博 =======
+# 微博
 DOMAIN,api.weibo.cn
 DOMAIN,api.weibo.com
 DOMAIN-SUFFIX,weibocdn.com
 DOMAIN-KEYWORD,weibo
 
-# ======= 知乎 =======
+# 知乎
 #DOMAIN,zhihu-web-analytics.zhihu.com
 #DOMAIN,www.zhihu.com
 #DOMAIN,api.zhihu.com
