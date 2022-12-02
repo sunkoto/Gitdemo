@@ -1,5 +1,5 @@
 #!name=Toggle Akamaized To Bilivideo
-#!desc=哔哩哔哩Upos服务器替换为腾讯Cos对象存储，@ddgksf2013,@alyce233
+#!desc=哔哩哔哩Upos服务器替换为腾讯Cos对象存储，@ddgk,@alyce233
 
 [URL Rewrite]
 ^https?://upos-hz-mirrorakam\.akamaized\.net https://upos-sz-mirrorcos.bilivideo.com header

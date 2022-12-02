@@ -1,4 +1,4 @@
-// @ddgksf2013 ; 修复部分无法正确转换的字。
+// @ddgk ; 修复部分无法正确转换的字。
 // update time : 2022年8月27日
 
 var bilicc = JSON.parse($response.body);
