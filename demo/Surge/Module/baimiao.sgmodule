@@ -1,0 +1,8 @@
+#!name=白描-ocr
+#!desc=vip
+#!author=pengyuyan
+[Mitm]
+hostname = %APPEND% baimiao.uzero.cn
+
+[Script]
+扫描全能王 = type=https?:\/\/baimiao\.uzero\.cn\/api\/v\d\.user\/appLaunchWithUser$,requires-body=1,script-path=https://raw.githubusercontent.com/89996462/Quantumult-X/main/ycdz/baimiao.js
