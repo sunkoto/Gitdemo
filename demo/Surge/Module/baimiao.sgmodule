@@ -5,4 +5,4 @@
 hostname = %APPEND% baimiao.uzero.cn
 
 [Script]
-扫描全能王 = type=https?:\/\/baimiao\.uzero\.cn\/api\/v\d\.user\/appLaunchWithUser$,requires-body=1,script-path=https://raw.githubusercontent.com/89996462/Quantumult-X/main/ycdz/baimiao.js
+白描 = type=http-response,pattern=https?:\/\/baimiao\.uzero\.cn\/api\/v\d\.user\/appLaunchWithUser$,requires-body=1,script-path=https://raw.githubusercontent.com/89996462/Quantumult-X/main/ycdz/baimiao.js
