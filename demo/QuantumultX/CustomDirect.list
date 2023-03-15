@@ -4,10 +4,6 @@ DOMAIN-SUFFIX,speedtest.cn
 DOMAIN-SUFFIX,speedtest.net
 DOMAIN-SUFFIX,appstorrent.ru
 
-# steampy
-DOMAIN-SUFFIX,steampy.com
-DOMAIN,steampy.oss-cn-shanghai.aliyuncs.com
-
 # paypal
 DOMAIN-SUFFIX,paypal.com
 DOMAIN-SUFFIX,paypal.me
