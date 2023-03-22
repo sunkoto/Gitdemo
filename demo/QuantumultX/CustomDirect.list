@@ -4,12 +4,6 @@ DOMAIN-SUFFIX,speedtest.cn
 DOMAIN-SUFFIX,speedtest.net
 DOMAIN-SUFFIX,appstorrent.ru
 
-# paypal
-DOMAIN-SUFFIX,paypal.com
-DOMAIN-SUFFIX,paypal.me
-DOMAIN-SUFFIX,paypal-mktg.com
-DOMAIN-SUFFIX,paypalobjects.com
-
 # Bili图片
 DOMAIN-SUFFIX,hdslb.com
 DOMAIN-SUFFIX,biliimg.com
