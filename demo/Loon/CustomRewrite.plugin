@@ -1,0 +1,16 @@
+#!name=Rewrite for own use
+#!desc=自用重写
+
+[Rewrite]
+# 滴滴打车 微信小程序净化
+^https:\/\/conf\.diditaxi\.com\.cn\/homepage\/v1\/core - reject-dict
+
+# 中通快递 微信小程序净化
+^https:\/\/hdgateway\.zto\.com - reject
+
+# 嘀嗒出行 微信小程序净化
+^https:\/\/capis(-\d)?\.didapinche\.com\/adbase - reject
+
+
+[MITM]
+hostname=conf.diditaxi.com.cn ,hdgateway.zto.com ,capis*.didapinche.com
