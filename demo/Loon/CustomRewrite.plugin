@@ -2,11 +2,16 @@
 #!desc=自用重写
 #!icon=https://raw.githubusercontent.com/deezertidal/private/main/icons/bili.png
 
+[Rewrite]
+# BiliBili_哔哩哔哩_应用开屏去广告@bm7
+^https://app.bilibili.com/x/v2/splash/show - reject-dict
+
+
 [Script]
 
-# ～ 嗶哩嗶哩繁體CC字幕轉中文簡體（2022-04-02）@ddgksf2013
+# 嗶哩嗶哩繁體CC字幕轉中文簡體（2022-04-02）@ddgksf2013
 http-response ^https?:\/\/.*\.hdslb\.com\/bfs\/subtitle\/.+\.json script-path=https://github.com/ddgksf2013/Scripts/raw/master/bilibili_cc.js,requires-body=true,max-size=3145728,timeout=60, tag=简体字幕 
 
 
 [MITM]
-hostname = aisubtitle.hdslb.com,i0.hdslb.com
+hostname = aisubtitle.hdslb.com,i0.hdslb.com,app.bilibili.com
