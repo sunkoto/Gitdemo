@@ -10,7 +10,7 @@
 [Script]
 
 # 嗶哩嗶哩繁體CC字幕轉中文簡體（2022-04-02）@ddgksf2013
-http-response ^https?:\/\/.*\.hdslb\.com\/bfs\/subtitle\/.+\.json script-path=https://github.com/ddgksf2013/Scripts/raw/master/bilibili_cc.js,requires-body=true,max-size=3145728,timeout=60, tag=简体字幕 
+http-response ^https?:\/\/.*\.hdslb\.com\/bfs\/subtitle\/.+\.json script-path=https://github.com/ddgksf2013/Scripts/raw/master/bilibili_cc.js,requires-body=true,max-size=3145728,timeout=60, tag=哔哩番剧字幕繁体转简体
 
 
 [MITM]
