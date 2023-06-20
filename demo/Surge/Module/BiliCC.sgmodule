@@ -8,4 +8,4 @@
 BiliCC = type=http-response,pattern=^https?:\/\/.*\.hdslb\.com\/bfs\/subtitle\/.+\.json,requires-body=1,max-size=0,script-path=https://github.com/ddgksf2013/Scripts/raw/master/bilibili_cc.js
 
 [MITM]
-hostname = aisubtitle.hdslb.com,i0.hdslb.com
+hostname = %APPEND% aisubtitle.hdslb.com,i0.hdslb.com
