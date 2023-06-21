@@ -1,0 +1,10 @@
+#!name=cytq @WeiRen0
+#!desc=cytq @WeiRen0
+
+
+[Script]
+http-response https?:\/\/biz\.caiyunapp\.com\/(membership_rights|v2\/user) script-path=https://raw.githubusercontent.com/WeiRen0/Scripts/main/cytq.js, requires-body=true, timeout=60, tag=彩云天气SVIP, enable = true
+
+
+[MITM]
+hostname = biz.caiyunapp.com
