@@ -2,12 +2,12 @@
 DOMAIN-SUFFIX,pan666.cn
 DOMAIN-SUFFIX,appstorrent.ru
 
+# 真不卡
+DOMAIN-SUFFIX,ikandy.fun
+
 # Bili图片
 DOMAIN-SUFFIX,hdslb.com
 DOMAIN-SUFFIX,biliimg.com
-
-# 真不卡
-DOMAIN-SUFFIX,ikandy.fun
 
 # Bili视频直播
 DOMAIN-SUFFIX,bilivideo.com
