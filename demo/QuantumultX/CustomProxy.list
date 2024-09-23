@@ -5,3 +5,6 @@ DOMAIN-SUFFIX,duyaoss.com
 # steampy
 DOMAIN-SUFFIX,steampy.com
 DOMAIN,steampy.oss-cn-shanghai.aliyuncs.com
+
+# RSSHUB
+DOMAIN-SUFFIX,rsshub.app
