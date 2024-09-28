@@ -6,4 +6,7 @@ DOMAIN-SUFFIX,appstorrent.ru
 DOMAIN-SUFFIX,ikandy.fun
 
 # Wechat
-IP-ASN,132203,direct
+IP-ASN,132203
+
+# chat
+DOMAIN-SUFFIX,aischat.xyz
