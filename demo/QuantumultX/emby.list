@@ -8,9 +8,9 @@ DOMAIN-SUFFIX,xxlb.net,Emby
 IP-CIDR,209.141.61.153/32,Emby,no-resolve
 IP-CIDR,152.70.233.134/31,Emby,no-resolve
 
-DOMAIN,auto.liuer.indevs.in,Emby
-DOMAIN,auto.embys.dpdns.org,Emby
-DOMAIN,auto.dolby.dpdns.org,Emby
+DOMAIN-SUFFIX,indevs.in,Emby
+DOMAIN-SUFFIX,dpdns.org,Emby
+DOMAIN-SUFFIX,dpdns.org,Emby
 DOMAIN,www.shopify.com,Emby
 DOMAIN,store.ubi.com,Emby
 DOMAIN,www.visa.cn,Emby
